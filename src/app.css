@@ -90,3 +90,17 @@
         font-size: 28px;
     }
 }
+
+@media (max-width: 610px){
+    .title{
+        font-size: 40px;
+    }
+    .main{
+        width: 80%;
+        min-height: 250px;
+    }
+    
+    .main h2{
+        font-size: 28px;
+    }
+}
